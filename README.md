@@ -1,4 +1,7 @@
-# business_informatics
-## one
-## two
-### three
+# Business Informatics
+## Slides
+-- fuck it
+## Work
+-- ok
+## Information Guide
+-- info
