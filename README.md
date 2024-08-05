@@ -1,6 +1,6 @@
 # Business Informatics
 ## Slides
--- fuck it
+-- de pronto flash, la chica del cikini azul
 ## Work
 -- ok
 ## Information Guide
