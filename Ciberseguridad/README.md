@@ -43,9 +43,4 @@ Durante el módulo, se utilizarán las siguientes herramientas para prácticas y
 
 - **Documentación:** Materiales de estudio, notas de clase, y guías.
 - **Ejercicios y Laboratorios:** Actividades prácticas y casos de estudio relacionados con seguridad TICs.
-- **Scripts y Herramientas:** Scripts y herramientas utilizadas en las prácticas para realizar escaneos y análisis de seguridad.
 - **Ejemplos de Configuración:** Ejemplos de configuración de herramientas de seguridad y políticas de seguridad.
-
-## Cómo Contribuir
-
-Las contribuciones son bienvenidas. Puedes hacer un fork del repositorio y enviar tus cambios a través de pull requests. Para cualquier consulta, contacta a [Tobias](tobias.egv@gmail.com).
